@@ -1,3 +1,5 @@
+//https://www.acmicpc.net/problem/11270
+//baekjoon Online Judge
 main()
 {
 	int a,i,z=0;
